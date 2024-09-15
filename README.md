@@ -1,6 +1,6 @@
 **extract_data**: Python program for extracting data from the recorded videos and saving it into a CSV file.
 
-**data_processing**: Jupyert Notebook that takes the extracted data and calculates the parameters related to speed.
+**data_processing**: Jupyter Notebook that takes the extracted data and calculates the parameters related to speed.
 
 **yolo_visualize**: Python program for visualizing the YOLOv8 detections of the videos.
 
